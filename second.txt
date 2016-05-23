@@ -1,0 +1,156 @@
+Path is used to define where the system can find the .exe files where as classpath helps us to locate where we can find .class files
+
+Object based programming language supports all features of object oriented programming languages except inheritance. examples of object based programming language are javascript and VBscript
+
+Object class is super class of all other classes
+
+For instance variables normally default values for number is zero and for booleans it is false and for object references is null.
+
+
+Used slick to query and storing in database in a Scala fashion using the powerful Scala collection framework.
+
+ Responsible for managing MongoDB environment with high availability, performance and scalability perspectives
+
+
+
+
+
+
+
+
+
+
+20058302328
+
+7274
+
+
+
+
+9013087057
+
+
+
+
+sai - L4103702
+
+Sravanth - L4708961
+
+
+
+
+The main purpose of the project is to serve as the system of record for business process definitions direct and route the flow of work between user providers and interface for users to interact with the workflow and enforce business rules at each stage of the business process. Report on status of work and metrics about work completion. Manage flow of documentation and artifacts in the business process.
+
+
+?	Handled assignments in developing UI pages using JSP, HTML, DHTML, CSS, JQuery and JavaScript technologies for modules in BDMS.
+?	Involved in understanding business requirements and functionality of Cost management Reporting.
+?	Involved in drawing the UML diagrams such as Use case Diagrams, Class Diagrams and Sequence Diagrams using Rational Rose.
+?	Application developed in MVC architecture using JSF, Facelets, JSP, Ajax, HTML, JavaScript, CSS, JMS and Hibernate.
+?	Involved in implementing Value Object Pattern, MVC & Factory Pattern.
+?	Updated the required data in the DB2 database to save and update the database corresponding to actions performed in the struts class.
+?	Used Struts tag library extensively (html, logic).
+?	Developed java classes for posting and processing mails using EJB and Java Mail API.
+?	Deployment of the application in the WebLogic Application server.
+?	Integrated Struts frame work with ORM implementation, Hibernate for data accessing.
+Tools & Technologies: Java1.4, Struts 1.2, EJB, JSTL, JSP, Facelets, Ajax, Hibernate, JSF, JMS, MQ Series, 
+Weblogic, RAD, DB2 8.1, TOAD, CVS, Bugzilla, JUnit, PL/SQL, Windows NT, 
+Linux, Java Script, Multithreading
+
+
+
+
+
+References
+  
+1)  Name   : Liaison International Inc. 
+    E-mail : hpamidimukkala@liaison-intl.com
+    Ph-NO  : 781-472-9648
+
+2)  Name   : State of Colorado, Colorado Department of Human Services (CDHS) 
+    E-mail : vamsikrishna.bollineni@state.co.us
+    Ph-No  : 609-647-1237
+
+
+H1B copy submissions 
+ 
+->Tarun Sharma
+Sr. Associate- Recruitment
+tarun.sharma@acsicorp.com
+Direct: 678 207 5272
+Gtalk: tsharma4425@gmail.com
+ 
+ACS Group | 2400 Meadowboo
+
+
+->Guru Appaji
+Direct:  925-218-2353
+E-mail: guru@msrcosmos.com
+5250 Claremont Ave |Stockton |California 95207 
+Visit us: www.msrcosmos.com
+
+
+
+St Louis, MO, Bay 10, Gateway Transportation Center, 430 S 15th Street
+
+
+
+Hello Ms. Laurie,
+
+                   I hope your doing fine. We have met before at the University of Illinois Springfield (UIS) during the career fair. You told me to contact you after the graduation regarding the job opportunity. I am interested to go further and work for MSF&W. Please let me know how to proceed further.
+
+Thanks and regards,
+Sravanth Potluri.
+
+
+
+
+
+
+201105490
+
+
+Hi this is sravanth i am busy now leave ur name and number i will get back to u thanku.
+
+
+
+713 4291834
+
+
+Hello,
+          I feel that my skills and experience are a great fit for this position. Please feel free to contact me to arrange an interview. I look forward to learning more about this opportunity. Please find my attatched document of my resume below.
+
+Thankyou.
+
+
+
+Hello,
+         I had gone through your job description and I hope that my skills and experience are fit for this position. I look forward to learn more about this opportunity. Please find my attached document of resume below.
+
+Thanks and regards
+Venkat Potluri.
+
+Name : Venkat Potluri 
+
+Current Location : Watertown, MA 
+
+Relocation : Yes 
+
+Availability : 1 week 
+
+Work status : H1B 
+
+E-mail : venkat.uijava@gmail.com 
+
+Phone : +1 (617) 398-0512
+
+Employer Details 
+Contact Person : Sandy
+Company Name : Conch technologies,inc.
+E-mail : sandy@conchtech.com
+ph# : 901 305 8584 ext 219 & 221
+
+
+
+
+
+
